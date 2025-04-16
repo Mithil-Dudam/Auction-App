@@ -153,6 +153,7 @@ function Login() {
         setFlag(0)
         setEmail("")
         setPassword("")
+        setUsername("")
         setDisplay(0)
     } 
 
